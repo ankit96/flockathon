@@ -1,0 +1,1 @@
+{"_module": "oauth2client.client", "scopes": [""], "token_expiry": "2017-01-21T20:07:44Z", "id_token": null, "access_token": "", "token_uri": "", "invalid": false, "token_response": {"access_token": "", "token_type": "", "expires_in": 3600}, "client_id": "", "token_info_uri": "", "client_secret": "", "revoke_uri": "", "_class": "", "refresh_token": "", "user_agent": null}
