@@ -1,7 +1,7 @@
 beautifulsoup4==4.4.1
 Flask==0.10.1
 lxml==3.4.4
-requests==2.9.1
+requests==2.20.0
 urllib3==1.11
 flask_wtf
 psycopg2
